@@ -1,0 +1,33 @@
+phyloCTF - top and bottom 1% seems to work
+
+
+CTF log ratios:
+
+top and bottom 1% Meh
+
+Numerator: s__Bifidobacterium callitrichos|s__Prevotella copri
+Denominator: s__Phocaeicola vulgatus|s__Bacteroides stercoris
+Meh
+
+G000157935|G000012825
+G000154525|G000438035
+Meh
+
+g__Bifidobacterium|g__Prevotella
+g__Phocaeicola|g__Bacteroides
+
+
+
+s__Phocaeicola vulgatus|s__Bacteroides ihuae
+s__Bifidobacterium eulemuris|s__Prevotella hominis
+
+Numerator: G000691685|G900095865|G000159155|G900066255|G000210635|G000242235|G000250875|G000154305|G002160015|G000585355|G900113155|
+Denominator: G900091655|G000436135|G001318345|G000778805|G000741165|G000434515|G002259685|(G000519105)
+Meh...
+
+g__Bifidobacterium|g__Prevotella|g__Phocaeicola|g__Bacteroides
+g__Escherichia
+
+G010500965|G001263395|G000438035|G000613785|G000613985|G900104585|G000741705|G902777695|G000025925|G000585355|G001683355|G900103315|G000159155
+g__Escherichia
+Meh...

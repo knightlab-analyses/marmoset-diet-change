@@ -1,0 +1,17 @@
+dam_name,source,offspring_produced ,birth_date,approx_mating,mating_change,date_changed,days_from_change,gestation_change_75,gestation_change_50,total_born,survived,percent_survival,died,offspring_notes,dam_notes
+Reba,external,N,,,,,,,,0,,,,,arrived 10/21/2020; partner is Chrome 
+Asami,external,Y,10/30/21,5/31/21,pre,6/25/21,-127,post,post,2,1,50,1,,transferred to J1 from MGH 5/3/2021; partner is Beryl
+Asami,external,Y,4/4/22,11/3/21,post,6/25/21,-283,post,post,2,2,100,0,,
+Toph,internal,Y,7/21/21,2/19/21,pre,6/25/21,-26,pre,pre,3,2,67,1,,transferred to J1 from MGH 1/15/2021; partner is Kenny 
+Toph,internal,Y,12/24/21,7/25/21,post,6/25/21,-182,post,post,2,1,50,1,1 alive,"weight loss, lethargy, diah event 2/14/2022- 2/28/2022 "
+Toph,internal,Y,8/1/22,3/2/22,post,6/25/21,-402,post,post,3,2,67,1,1 euthanized - fell,
+Ellen,internal,Y,10/10/21,5/11/21,pre,6/25/21,-107,pre,post,3,0,0,3,,transferred to J1 from MGH 12/7/2020; partner is Mac
+Ellen,internal,Y,4/19/22,11/18/21,post,6/25/21,-298,post,post,2,2,100,0,"rejected by mother, hand reared",
+Rene ,internal,Y,8/22/21,3/23/21,pre,6/25/21,-58,pre,pre,3,0,0,3,,transferred to J1 from MGH 12/15/2020; partner is Johnny 
+Tammy ,external,Y,4/11/22,11/10/21,post,6/25/21,-290,post,post,3,2,67,1,,arrived 10/21/2020; partner is Bane 
+Martina ,external,Y,11/13/21,6/14/21,pre,6/25/21,-141,post,post,3,2,67,1,,arrived 10/21/2020; partner is Abel 
+Martina ,external,Y,5/19/22,12/18/21,post,6/25/21,-328,post,post,3,3,100,0,,"transferred out (date?) to main campus, additional pregnancy not relevant"
+Gadget,external,Y,6/19/21,1/18/21,pre,6/25/21,6,pre,pre,1,1,100,0,,arrived 10/21/2020; partner is Kirk 
+Gadget,external,Y,11/21/21,6/22/21,pre,6/25/21,-149,post,post,3,2,67,1,,
+Gadget,external,Y,5/4/22,12/3/21,post,6/25/21,-313,post,post,3,2,67,1,,
+Dolly,internal,Y,3/4/22,10/3/21,post,6/25/21,-252,post,post,1,1,100,0,,"arrived 10/21/2020; originally was in J1then transferred to MGH, after weight loss event. Improved after being in MGH "
